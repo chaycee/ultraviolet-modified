@@ -18,6 +18,7 @@
     "scripts": {
         "build": "node build.js",
         "dev": "node build.js --dev",
+        "start": "node build.js --dev",
         "prepack": "npm run build"
     },
     "devDependencies": {
